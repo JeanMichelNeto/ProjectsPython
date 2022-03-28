@@ -1,0 +1,50 @@
+1º	Hyundai HB20	86.455
+2º	Fiat Argo	84.644
+3º	Jeep Renegade	73.913
+4º	Chevrolet Onix	73.623
+5º	Jeep Compass	70.906
+6º	Volkswagen Gol	66.228
+7º	Fiat Mobi	65.847
+8º	Hyundai Creta	64.759
+9º	Volkswagen T-Cross	62.307
+10º	Chevrolet Onix Plus	54.707
+11º	Renault Kwid	52.916
+12º	Chevrolet Tracker	50.757
+13º	Toyota Corolla	41.891
+14º	Honda HR-V	38.406
+15º	Volkswagen Nivus	36.664
+16º	Nissan Kicks	36.524
+17º	Toyota Corolla Cross	34.249
+18º	Volkswagen Voyage	28.593
+19º	Fiat Cronos	27.887
+20º	Hyundai Hb20S	25.568
+21º	Renault Duster	22.457
+22º	Toyota Yaris Hatcback	21.126
+23º	Volkswagen Virtus	20.563
+24º	Fiat Uno	20.555
+25º	Citroën C4 Cactus	19.552
+26º	Volkswagen Polo	19.196
+27º	Honda Civic	18.949
+28º	Volkswagen Fox	17.946
+29º	Peugeot 208	16.342
+30º	Fiat Siena	15.355
+31º	Toyota Hilux SW4	13.641
+32º	Chevrolet Spin	13.005
+33º	Caoa Chery Tiggo 5X	12.555
+34º	Renault Sandero	12.442
+35º	Toyota Yaris Sedan	12.436
+36º	Nissan Versa	11.107
+37º	Caoa Chery Tiggo 8	10.462
+38º	Honda WR-V	10.329
+39º	Renault Logan	9.478
+40º	Ford Ka	8.464
+41º	Renault Captur	8.304
+42º	Peugeot 2008	7.747
+43º	Volkswagen Taos	7.732
+44º	Honda Fit	7.138
+45º	Chevrolet Cruze Sedan	7.090
+46º	Fiat Pulse	6.724
+47º	Honda City	6.138
+48º	BMW 320i	5.428
+49º	Fiat Dobló	5.355
+50º	Nissan V-Drive	4.963
